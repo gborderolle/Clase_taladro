@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.exe
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.deps.json
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.runtimeconfig.json
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.runtimeconfig.dev.json
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.dll
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\ref\Clase_taladro.dll
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\bin\Debug\net5.0\Clase_taladro.pdb
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.csprojAssemblyReference.cache
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.AssemblyInfo.cs
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.dll
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\ref\Clase_taladro.dll
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.pdb
+D:\Documents\GitHub\Clase_taladro\Clase_taladro\obj\Debug\net5.0\Clase_taladro.genruntimeconfig.cache
